@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Leads Tracker",
+    "description": "A brief description of the extension",
+    "action": {
+      "default_popup": "chromeextensionankur.html",
+      "default_icon": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+      }
+    },
+    "permissions": [
+      "tabs",
+      "activeTab"
+    ],
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
